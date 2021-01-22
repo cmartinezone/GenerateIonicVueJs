@@ -1,2 +1,2 @@
 # Generate-IonicVueJs
- Script for Pharsing default ionic tample projects to VueJs Boilerplate.
+ Script for Pharsing default ionic typescript tamplates to VueJs Boilerplate.
