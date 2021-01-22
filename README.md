@@ -1,5 +1,5 @@
 # GenerateIonicVueJs
-> Script for Pharsing default ionic-vue typescript tamplates to VueJs Boilerplate.
+> Script for Pharsing default ionic-vue typescript templates to VueJs Boilerplate.
 ![""](https://github.com/cmartinezone/GenerateIonicVueJs/blob/main/screenshots/terminal.gif)
 ## Support
 Mac OS: !!! Requires 
