@@ -1,10 +1,6 @@
-
-Windows:
-Open the Windows command line (CMD), call the script and follow the prompt:
-powershell .\GenerateIonicVueJs.ps1
 # GenerateIonicVueJs
 > Script for Pharsing default ionic-vue typescript tamplates to VueJs Boilerplate.
-
+![""](https://github.com/cmartinezone/GenerateIonicVueJs/blob/main/screenshots/terminal.gif)
 ## Support
 Mac OS: !!! Requires 
 [Powershell Installation](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-7.1#installation-of-latest-stable-release-via-homebrew-on-macos-1013-or-higher)
